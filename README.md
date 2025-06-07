@@ -84,8 +84,8 @@ Vamos construir algo juntos? 🚀
 
 <img 
     align="left" 
-    alt="SqlServer" 
-    title="SqlServer"
+    alt="MySql" 
+    title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
